@@ -44,7 +44,6 @@ This project is a Flower Shop web application built using React. It allows users
 
 - React
 - React Router (for routing)
-- Axios (for API requests)
 - Bootstrap (for styling)
 
 ## Getting Started
@@ -54,7 +53,7 @@ This project is a Flower Shop web application built using React. It allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flower-shop-app.git
+   git clone https://github.com/asmaa-elfatayry/flower-shop-app.git
    ```
 
 2. Navigate to the project directory:
